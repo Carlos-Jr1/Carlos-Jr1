@@ -1,18 +1,17 @@
-### Olá, Eu sou o Carlos-Jr1 🐱‍🏍
+### Olá, Eu sou o Carlos Junior 🐱‍🏍
 
-
-
-- 🔭 Em buscar do Primeiro Trabalho
-- 🌱 Estudando Full Stack no projeto Desenvolve 2022 Grupo Boticário
+ 
+- 🌱 Estudando Full Stack no projeto Desenvolve 2022 | Grupo Boticário
 - 📫 contate-me no email: Junior_kd2012@hotmail.com
 -->
 
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Carlos-Jr1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Jr1&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Jr1&layout=compact&langs_count=7&theme=blue"/>
-</div>
+  </div>
+  
+  - 💻 Tecnologias   
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
