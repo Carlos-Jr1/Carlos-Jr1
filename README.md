@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Carlos Junior 🐱‍🏍
 
  
-- 🌱 Estudando de ADS SENAC 2/5 | Grupo Boticário
+- 🌱 Estudande de ADS SENAC 2/5 
 - 📫 contate-me no email: Junior_kd2012@hotmail.com
 -->
 
