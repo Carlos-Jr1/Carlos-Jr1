@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Carlos Junior 🐱‍🏍
 
  
-- 🌱 Estudando Full Stack no projeto Desenvolve 2022 | Grupo Boticário
+- 🌱 Estudando de ADS SENAC 2/5 | Grupo Boticário
 - 📫 contate-me no email: Junior_kd2012@hotmail.com
 -->
 
