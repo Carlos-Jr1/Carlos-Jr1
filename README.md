@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Carlos Junior 🐱‍🏍
 
  
-- 🌱 Estudande de ADS SENAC 2/5 
+- 🌱 Estudande de ADS SENAC 3/5 
 - 📫 contate-me no email: Junior_kd2012@hotmail.com
 -->
 
