@@ -1,4 +1,4 @@
-### Olá, Eu sou o Carlos Junior 🐱‍🏍
+### Olá, Eu sou o Carlos Junior
 
  
 - 🌱 Estudande de ADS SENAC 3/5 
